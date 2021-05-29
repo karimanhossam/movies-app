@@ -3,7 +3,7 @@
 ## Description
 
 A react native app that displays a list of movies fetched through a web API.
-Documentation for the API is available [here] (https://developers.themoviedb.org/3/discover/movie-discover)
+Documentation for the API is available [here](https://developers.themoviedb.org/3/discover/movie-discover)
 
 ## Setup
 
